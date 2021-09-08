@@ -14,4 +14,4 @@ Action Setps:
   
  Script can archived and move any type of files and directory 
 
-*Scipt will faile if we have the files/folders name are same in dataout directory.
+*Scipt will fail if we have the same files/folders name in both datain/dataout directory.
